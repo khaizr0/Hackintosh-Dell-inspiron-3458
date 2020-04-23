@@ -95,17 +95,17 @@ Update your Bios to Lastest
    
 4. Click Continue, Continue, Agree
 
-5. Select Macintosh SSD, or name of your existing drive, where you want to install El Capitan and click Continue
+5. Select name of your existing drive, where you want to install Macos Mojave and click Continue
 
 6. Upon completion, system will restart
 
 7. Press the F12 to choose boot device
 
-8. Choose  under UEFI Boot:
+8. Choose under UEFI Boot:
 
-9. When Clover boot screen appears, choose Macintosh SSD or name of your existing drive
+9. When OC boot screen appears, choose your existing name drive
 
-10. After installed successfull, copy your EFI folder from your USB to Hard drive and ready to go :)
+10. After Booted successfull, copy your EFI folder from your USB to Hard drive and ready to go :)
 
 ## IF you wanna ask something: 
 - [Olarila](https://www.olarila.com "Olarila") Website
