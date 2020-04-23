@@ -114,6 +114,7 @@ Update your Bios to Lastest
 10. After Booted successfull, copy your EFI folder from your USB to Hard drive and ready to go :)
 
 ## IF you wanna ask something: 
+- [Opencore](https://dortania.github.io/OpenCore-Desktop-Guide/ "OpenCore") Guide
 - [Olarila](https://www.olarila.com "Olarila") Website
 - [Olarila](https://www.facebook.com/groups/122585311156411 "Olarila") Facebook group
 - If you are VietNamese you can go to this [group](https://www.facebook.com/groups/224780132268974/?ref=share "group")
