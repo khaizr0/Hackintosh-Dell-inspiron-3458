@@ -28,7 +28,7 @@ OC hackintosh on Dell inspiron 3458
 
 ![Macos](https://user-images.githubusercontent.com/54585187/80120095-ba094a80-85b4-11ea-9067-ca3c2fb19008.png)
 
-## Before Continued Guide
+## Before Continue Guide!!
 
 Please use Xcode, ProperTree for customize config file
 
