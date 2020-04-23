@@ -28,6 +28,12 @@ OC hackintosh on Dell inspiron 3458
 
 ![Macos](https://user-images.githubusercontent.com/54585187/80120095-ba094a80-85b4-11ea-9067-ca3c2fb19008.png)
 
+## Before Continued Guide
+
+Please use Xcode, ProperTree for customize config file
+
+(Don't use OpenCore Configuration, Clover Configuration or it will broke your config file)
+
 ## Pre Condition
 
 **Bios configuration**
@@ -111,3 +117,8 @@ Update your Bios to Lastest
 - [Olarila](https://www.olarila.com "Olarila") Website
 - [Olarila](https://www.facebook.com/groups/122585311156411 "Olarila") Facebook group
 - If you are VietNamese you can go to this [group](https://www.facebook.com/groups/224780132268974/?ref=share "group")
+
+## Credit
+- [Apple](https://www.apple.com "Apple") for the Operation System
+- [OpenCore](https://dortania.github.io/OpenCore-Desktop-Guide/misc/credit.html "OpenCore") for great Bootloader
+- And for some other (i guess :v)
