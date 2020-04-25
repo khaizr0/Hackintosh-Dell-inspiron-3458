@@ -2,7 +2,7 @@
 OC hackintosh on Dell inspiron 3458
 
 Languages:
-- Việt Nam
+- [Việt Nam](https://github.com/KhaiZeRoFX/OpenCore-Dell-inspiron-3458/blob/master/README-VN.md "VN")
 - English (Current)
 
 ## Laptop Specs
