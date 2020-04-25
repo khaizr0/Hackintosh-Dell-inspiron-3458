@@ -7,7 +7,7 @@ Languages:
 
 ## Laptop Specs
 - Intel Core i3 5005u (Broadwell)
-- GPU intel HD 5500
+- GPU intel HD 5500 (Fake to HD6000?)
 - Ram 4GB
 - AR9565 (DW1707)
 - Audio ALC 255
@@ -31,7 +31,11 @@ Languages:
 - SD card reader (untest)
 - Bluetooth
 
+## HD 5500
 ![Macos](https://user-images.githubusercontent.com/54585187/80120095-ba094a80-85b4-11ea-9067-ca3c2fb19008.png)
+
+## HD 6000?
+![HD6000](https://user-images.githubusercontent.com/54585187/80274909-12049600-8708-11ea-8407-a028b3553dca.png)
 
 ## Before Continue Guide!!
 
