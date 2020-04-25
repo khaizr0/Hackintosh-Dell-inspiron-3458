@@ -5,6 +5,7 @@ Languages:
 - [Việt Nam](https://github.com/KhaiZeRoFX/OpenCore-Dell-inspiron-3458/blob/master/README-VN.md "VN")
 - English (Current)
 
+## Download [here](https://github.com/KhaiZeRoFX/OpenCore-Dell-inspiron-3458/releases "vv")
 ## Laptop Specs
 - Intel Core i3 5005u (Broadwell)
 - GPU intel HD 5500 (Fake to HD6000?)
