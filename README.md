@@ -1,5 +1,10 @@
 # OpenCore-Dell-inspiron-3458
 OC hackintosh on Dell inspiron 3458
+
+Languages:
+- Việt Nam
+- English (Current)
+
 ## Laptop Specs
 - Intel Core i3 5005u (Broadwell)
 - GPU intel HD 5500
