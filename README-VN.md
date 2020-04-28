@@ -18,7 +18,7 @@
 Opencore Hackintosh trên Dell inspiron 3458
 
 *Ngôn ngữ:
-- [English](https://github.com/KhaiZeRoFX/OpenCore-Dell-inspiron-3458/blob/master/README.md "EN")
+- [English](https://github.com/KhaiZeRoFX/OpenCore-Dell-inspiron-3458 "EN")
 - Tiếng Việt (Đang sử dụng)
 
 ## Tải ở [đây](https://github.com/KhaiZeRoFX/OpenCore-Dell-inspiron-3458/releases "vv")
