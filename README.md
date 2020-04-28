@@ -7,6 +7,7 @@
 [![macOS](https://img.shields.io/badge/macOS-10.15.4-blueviolet)](https://www.apple.com/macos/catalina/)
 [![macOS](https://img.shields.io/badge/macOS-10.14.6-yellow)](https://support.apple.com/en-us/HT210190)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.5.7-blue)](https://github.com/acidanthera/OpenCorePkg)
+![Support-status](https://img.shields.io/badge/Support-YES-Green)
 
 <img align="right" src="https://user-images.githubusercontent.com/54585187/80489711-7171d880-898a-11ea-9949-4075f348e6a9.png" alt="Critter" width="550">
 
