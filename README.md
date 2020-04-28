@@ -15,8 +15,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/54585187/80490256-49cf4000-898b-11ea-8d41-6c264a94633b.png" width="550">
 
-# OpenCore-Dell-inspiron-3458
-OC hackintosh on Dell inspiron 3458
+# OpenCore Dell inspiron 3458
 
 *Languages:
 
