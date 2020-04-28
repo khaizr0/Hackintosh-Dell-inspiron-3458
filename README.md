@@ -1,3 +1,19 @@
+<p align="center">
+	<img src="https://iili.io/JCfJ3u.png" width="200" height="48"/>
+</p>
+
+-----
+
+[![macOS](https://img.shields.io/badge/macOS-10.15.4-blueviolet)](https://www.apple.com/macos/catalina/)
+[![macOS](https://img.shields.io/badge/macOS-10.14.6-yellow)](https://support.apple.com/en-us/HT210190)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.5.7-blue)](https://github.com/acidanthera/OpenCorePkg)
+
+<img align="right" src="https://user-images.githubusercontent.com/54585187/80489711-7171d880-898a-11ea-9949-4075f348e6a9.png" alt="Critter" width="550">
+
+<img align="right" src="https://user-images.githubusercontent.com/54585187/80489950-cf9ebb80-898a-11ea-8e96-1d91596e241d.png" width="550">
+
+<img align="right" src="https://user-images.githubusercontent.com/54585187/80490256-49cf4000-898b-11ea-8d41-6c264a94633b.png" width="550">
+
 # OpenCore-Dell-inspiron-3458
 OC hackintosh on Dell inspiron 3458
 
@@ -32,12 +48,6 @@ OC hackintosh on Dell inspiron 3458
 ## Not Working
 - SD card reader (untest)
 - Bluetooth
-
-## HD 5500
-![Macos](https://user-images.githubusercontent.com/54585187/80120095-ba094a80-85b4-11ea-9067-ca3c2fb19008.png)
-
-## HD 6000?
-![HD6000](https://user-images.githubusercontent.com/54585187/80274909-12049600-8708-11ea-8407-a028b3553dca.png)
 
 ## Before Continue Guide!!
 
