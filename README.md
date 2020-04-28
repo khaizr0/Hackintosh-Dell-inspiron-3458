@@ -1,7 +1,8 @@
 # OpenCore-Dell-inspiron-3458
 OC hackintosh on Dell inspiron 3458
 
-Languages:
+*Languages:
+
 - [Việt Nam](https://github.com/KhaiZeRoFX/OpenCore-Dell-inspiron-3458/blob/master/README-VN.md "VN")
 - English (Current)
 
