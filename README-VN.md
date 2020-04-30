@@ -15,7 +15,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/54585187/80490256-49cf4000-898b-11ea-8d41-6c264a94633b.png" width="550">
 
-# OpenCore-Dell-inspiron-3458
+# OpenCore Dell inspiron 3458
 Opencore Hackintosh trên Dell inspiron 3458
 
 *Ngôn ngữ:
@@ -132,6 +132,13 @@ Update bios của máy bạn lên phiên bản mới nhất
 8. Khi OC boot Option hiện lên, Chọn ổ cứng đã cài đặt macos
 
 10. Đợi quá trình boot xong, setup các thứ, chuyển efi từ usb sang efi ổ cứng là xong :>
+
+# Quan Trọng
+(Sau khi cài đặt MacOS thành công, Làm ơn hãy đổi System info của bạn với ProperTree và Clover configuration generate)
+
+<img align="" src="https://user-images.githubusercontent.com/54585187/80679059-5caa5780-8ae6-11ea-9ded-beed34526b00.png" width="600">
+<img align="" src="https://user-images.githubusercontent.com/54585187/80678840-ead20e00-8ae5-11ea-8f9e-128a9ed6e1c5.png" width="600">
+<img align="" src="https://user-images.githubusercontent.com/54585187/80679145-806d9d80-8ae6-11ea-86d9-27d675b92a2a.png" width="600">
 
 ## Nếu bạn muốn hỏi gì:
 - [Opencore](https://dortania.github.io/OpenCore-Desktop-Guide/ "OpenCore") Guide
