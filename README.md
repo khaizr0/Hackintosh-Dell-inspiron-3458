@@ -134,6 +134,13 @@ Update your Bios to Lastest
 
 10. After Booted successfull, copy your EFI folder from your USB to Hard drive and ready to go :)
 
+# IMPORTANT:
+(After installed MacOS sucessful, please change your System info with ProperTree and Clover configuration generate)
+
+<img align="" src="https://user-images.githubusercontent.com/54585187/80679059-5caa5780-8ae6-11ea-9ded-beed34526b00.png" width="600">
+<img align="" src="https://user-images.githubusercontent.com/54585187/80678840-ead20e00-8ae5-11ea-8f9e-128a9ed6e1c5.png" width="600">
+<img align="" src="https://user-images.githubusercontent.com/54585187/80679145-806d9d80-8ae6-11ea-86d9-27d675b92a2a.png" width="600">
+
 ## IF you wanna ask something: 
 - [Opencore](https://dortania.github.io/OpenCore-Desktop-Guide/ "OpenCore") Guide
 - [Olarila](https://www.olarila.com "Olarila") Website
