@@ -6,7 +6,7 @@
 
 [![macOS](https://img.shields.io/badge/macOS-10.15.4-blueviolet)](https://www.apple.com/macos/catalina/)
 [![macOS](https://img.shields.io/badge/macOS-10.14.6-yellow)](https://support.apple.com/en-us/HT210190)
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.5.7-blue)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.5.8-blue)](https://github.com/acidanthera/OpenCorePkg)
 ![Support-status](https://img.shields.io/badge/Support-YES-Green)
 
 <img align="right" src="https://user-images.githubusercontent.com/54585187/80489711-7171d880-898a-11ea-9949-4075f348e6a9.png" alt="Critter" width="550">
@@ -140,6 +140,17 @@ Update your Bios to Lastest
 <img align="" src="https://user-images.githubusercontent.com/54585187/80679059-5caa5780-8ae6-11ea-9ded-beed34526b00.png" width="600">
 <img align="" src="https://user-images.githubusercontent.com/54585187/80678840-ead20e00-8ae5-11ea-8f9e-128a9ed6e1c5.png" width="600">
 <img align="" src="https://user-images.githubusercontent.com/54585187/80679145-806d9d80-8ae6-11ea-86d9-27d675b92a2a.png" width="600">
+
+# Audio
+`IF layout-id 7 not working, pls try id 11`
+
+<img align="" src="https://user-images.githubusercontent.com/54585187/81153683-5bc56a00-8fad-11ea-8848-f942089825d6.png" width="600">
+
+# ChimeBoot Sound
+
+(If you are interesting in Chime sound on realmac, then just turn on it :>)
+<img align="" src="https://user-images.githubusercontent.com/54585187/81152151-e016ed80-8fab-11ea-8574-5b0e665feef5.png" width="600">
+
 
 ## IF you wanna ask something: 
 - [Opencore](https://dortania.github.io/OpenCore-Desktop-Guide/ "OpenCore") Guide
