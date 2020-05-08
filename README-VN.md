@@ -4,8 +4,6 @@
 
 -----
 
-[![macOS](https://img.shields.io/badge/macOS-10.15.4-blueviolet)](https://www.apple.com/macos/catalina/)
-[![macOS](https://img.shields.io/badge/macOS-10.14.6-yellow)](https://support.apple.com/en-us/HT210190)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.5.8-blue)](https://github.com/acidanthera/OpenCorePkg)
 ![Support-status](https://img.shields.io/badge/Support-YES-Green)
 
@@ -28,7 +26,7 @@ Opencore Hackintosh trên Dell inspiron 3458
 - Intel Core i3 5005u (Broadwell)
 - GPU intel HD 5500 (Fake to HD6000?)
 - Ram 4GB
-- AR9565 (DW1707)
+- Intel AC3160
 - Audio ALC 255
 - Ethernet RTL8106E
 ## Hoạt Động
@@ -85,7 +83,6 @@ Update bios của máy bạn lên phiên bản mới nhất
   ## 2. Tạo USB boot
   (Mình sẽ dùng bản boot của Olarila)
   
-  ** Lưu ý: OC này chỉ có thể chạy bản Mojave hoặc cao hơn, Làm ơn đừng chạy OC với phiên bản MacOs thấp hơn
   
   1. Tải MacOS Mojave từ [Olarila](https://drive.google.com/file/d/11XOoe-3Dcgqy97SJ3DGPSTx9Nz3LJIff/view "Olarila")
   
