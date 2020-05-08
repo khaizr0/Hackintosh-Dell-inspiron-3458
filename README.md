@@ -82,7 +82,6 @@ Update your Bios to Lastest
   ## 2. Create OSX Installer
   (I will use Olarila Mojave)
   
-  ** Note: This OC can only run Mojave or Higher, Please don't run with older MacOS X
   
   1. Download MacOS Mojave From Olarila [here](https://drive.google.com/file/d/11XOoe-3Dcgqy97SJ3DGPSTx9Nz3LJIff/view "Here")
   
