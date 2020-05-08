@@ -4,8 +4,6 @@
 
 -----
 
-[![macOS](https://img.shields.io/badge/macOS-10.15.4-blueviolet)](https://www.apple.com/macos/catalina/)
-[![macOS](https://img.shields.io/badge/macOS-10.14.6-yellow)](https://support.apple.com/en-us/HT210190)
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.5.8-blue)](https://github.com/acidanthera/OpenCorePkg)
 ![Support-status](https://img.shields.io/badge/Support-YES-Green)
 
@@ -27,12 +25,12 @@
 - Intel Core i3 5005u (Broadwell)
 - GPU intel HD 5500 (Fake to HD6000?)
 - Ram 4GB
-- AR9565 (DW1707)
+- Intel AC3160
 - Audio ALC 255
 - Ethernet RTL8106E
 ## Working
 - Native Power Management
-- Wifi
+- Bluetooth
 - USB ports
 - Battery status
 - Keyboard & TrackPad
@@ -47,7 +45,7 @@
 - Icloud/Facetime/imessage
 ## Not Working
 - SD card reader (untest)
-- Bluetooth
+- Wifi
 
 ## Before Continue Guide!!
 
