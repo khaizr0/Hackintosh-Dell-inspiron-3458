@@ -31,7 +31,7 @@ Opencore Hackintosh trên Dell inspiron 3458
 - Ethernet RTL8106E
 ## Hoạt Động
 - Native Power Management
-- Wifi
+- Bluetooth
 - USB ports
 - Battery status
 - Keyboard & TrackPad
@@ -46,7 +46,7 @@ Opencore Hackintosh trên Dell inspiron 3458
 - Icloud/Facetime/imessage
 ## Không Hoạt Động
 - SD card reader (untest)
-- Bluetooth
+- Wifi
 
 ## Lưu ý trước khi tiếp tục đọc bài này
 
