@@ -4,7 +4,7 @@
 
 -----
 
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.5.8-blue)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.5.9-blue)](https://github.com/acidanthera/OpenCorePkg)
 ![Support-status](https://img.shields.io/badge/Support-YES-Green)
 
 <img align="right" src="https://user-images.githubusercontent.com/54585187/80489711-7171d880-898a-11ea-9949-4075f348e6a9.png" alt="Critter" width="550">
@@ -30,7 +30,7 @@ Opencore Hackintosh trên Dell inspiron 3458
 - Audio ALC 255
 - Ethernet RTL8106E
 ## Hoạt Động
-- - Wifi ([HelioPort](https://github.com/zxystd/HeliPort) and [Itlwm](https://github.com/zxystd/itlwm) Projects)
+- Wifi ([HelioPort](https://github.com/zxystd/HeliPort) and [Itlwm](https://github.com/zxystd/itlwm) Projects)
 - Native Power Management
 - Bluetooth
 - USB ports
