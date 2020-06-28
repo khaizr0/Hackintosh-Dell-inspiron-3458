@@ -4,7 +4,7 @@
 
 -----
 
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.5.8-blue)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.5.9-blue)](https://github.com/acidanthera/OpenCorePkg)
 ![Support-status](https://img.shields.io/badge/Support-YES-Green)
 
 <img align="right" src="https://user-images.githubusercontent.com/54585187/80489711-7171d880-898a-11ea-9949-4075f348e6a9.png" alt="Critter" width="550">
@@ -23,12 +23,13 @@
 ## Download [here](https://github.com/KhaiZeRoFX/OpenCore-Dell-inspiron-3458/releases "vv")
 ## Laptop Specs
 - Intel Core i3 5005u (Broadwell)
-- GPU intel HD 5500 (Fake to HD6000?)
+- GPU intel HD 5500 (Fake HD6000)
 - Ram 4GB
 - Intel AC3160
 - Audio ALC 255
 - Ethernet RTL8106E
 ## Working
+- Wifi ([HelioPort](https://github.com/zxystd/HeliPort) and [Itlwm](https://github.com/zxystd/itlwm) Projects)
 - Native Power Management
 - Bluetooth
 - USB ports
@@ -45,7 +46,7 @@
 - Icloud/Facetime/imessage
 ## Not Working
 - SD card reader (untest)
-- Wifi
+- Continuty Features
 
 ## Before Continue Guide!!
 
