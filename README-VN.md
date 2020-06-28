@@ -24,12 +24,13 @@ Opencore Hackintosh trên Dell inspiron 3458
 
 ## Cấu Hình Máy
 - Intel Core i3 5005u (Broadwell)
-- GPU intel HD 5500 (Fake to HD6000?)
+- GPU intel HD 5500 (Fake HD6000)
 - Ram 4GB
 - Intel AC3160
 - Audio ALC 255
 - Ethernet RTL8106E
 ## Hoạt Động
+- - Wifi ([HelioPort](https://github.com/zxystd/HeliPort) and [Itlwm](https://github.com/zxystd/itlwm) Projects)
 - Native Power Management
 - Bluetooth
 - USB ports
@@ -46,7 +47,7 @@ Opencore Hackintosh trên Dell inspiron 3458
 - Icloud/Facetime/imessage
 ## Không Hoạt Động
 - SD card reader (untest)
-- Wifi
+- Continuty Features
 
 ## Lưu ý trước khi tiếp tục đọc bài này
 
