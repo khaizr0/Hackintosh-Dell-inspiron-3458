@@ -31,7 +31,7 @@ Opencore Hackintosh trên Dell inspiron 3458
 - Audio ALC 255
 - Ethernet RTL8106E
 ## Hoạt Động
-- Wifi ([HelioPort](https://github.com/zxystd/HeliPort) and [Itlwm](https://github.com/zxystd/itlwm) Projects)
+- Wifi ([HeliPort](https://github.com/zxystd/HeliPort) and [Itlwm](https://github.com/zxystd/itlwm) Projects)
 - Native Power Management
 - Bluetooth
 - USB ports
