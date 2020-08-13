@@ -133,7 +133,7 @@ Update your Bios to Lastest
 
 # Wifi and bluetooth
 
-I recommended you to using DW1820a, DW1560 (If you don't have money like me then you can use HelioPort with limit internet speed)
+I recommended you to using DW1820a, DW1560 (If you don't have money like me then you can use HeliPort with limit internet speed)
 
 - Bcm card: 
 
