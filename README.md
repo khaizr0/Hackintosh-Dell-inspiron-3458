@@ -131,6 +131,20 @@ Update your Bios to Lastest
 
 10. After Booted successfull, copy your EFI folder from your USB to Hard drive and ready to go :)
 
+# Wifi and bluetooth
+
+I recommended you to using DW1820a, DW1560 (If you don't have money like me then you can use HelioPort with limit internet speed)
+
+- Bcm card: 
+
+	- https://github.com/acidanthera/AirportBrcmFixup
+	
+	- https://github.com/acidanthera/BrcmPatchRAM
+	
+- Intel card (HelioPort): https://github.com/1hbb/OpenIntelWireless-Factory/releases
+
+-Other kext: https://github.com/acidanthera/BT4LEContinuityFixup
+
 # IMPORTANT:
 (After installed MacOS sucessful, please change your System info with ProperTree and Clover configuration generate)
 
@@ -138,10 +152,6 @@ Update your Bios to Lastest
 <img align="" src="https://user-images.githubusercontent.com/54585187/80678840-ead20e00-8ae5-11ea-8f9e-128a9ed6e1c5.png" width="600">
 <img align="" src="https://user-images.githubusercontent.com/54585187/80679145-806d9d80-8ae6-11ea-86d9-27d675b92a2a.png" width="600">
 
-# Audio
-`IF layout-id 7 not working, pls try id 11`
-
-<img align="" src="https://user-images.githubusercontent.com/54585187/81153683-5bc56a00-8fad-11ea-8848-f942089825d6.png" width="600">
 
 # ChimeBoot Sound
 
