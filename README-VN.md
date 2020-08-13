@@ -4,14 +4,15 @@
 
 -----
 
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.5.9-blue)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.0-blue)](https://github.com/acidanthera/OpenCorePkg)
 ![Support-status](https://img.shields.io/badge/Support-YES-Green)
 
-<img align="right" src="https://user-images.githubusercontent.com/54585187/80489711-7171d880-898a-11ea-9949-4075f348e6a9.png" alt="Critter" width="550">
+<img align="right" src="https://user-images.githubusercontent.com/54585187/88381416-9aaad500-cdd0-11ea-96c2-6f7bc16c99c3.png" alt="Critter" width="550">
 
-<img align="right" src="https://user-images.githubusercontent.com/54585187/80489950-cf9ebb80-898a-11ea-8e96-1d91596e241d.png" width="550">
+<img align="right" src="https://user-images.githubusercontent.com/54585187/88381481-b8783a00-cdd0-11ea-8716-195cd177e314.png" width="550">
 
-<img align="right" src="https://user-images.githubusercontent.com/54585187/80490256-49cf4000-898b-11ea-8d41-6c264a94633b.png" width="550">
+<img align="right" src="https://user-images.githubusercontent.com/54585187/88381616-ef4e5000-cdd0-11ea-878e-6173ee8eb1ef.png" width="550">
+
 
 # OpenCore Dell inspiron 3458
 Opencore Hackintosh trên Dell inspiron 3458
@@ -138,10 +139,19 @@ Update bios của máy bạn lên phiên bản mới nhất
 <img align="" src="https://user-images.githubusercontent.com/54585187/80678840-ead20e00-8ae5-11ea-8f9e-128a9ed6e1c5.png" width="600">
 <img align="" src="https://user-images.githubusercontent.com/54585187/80679145-806d9d80-8ae6-11ea-86d9-27d675b92a2a.png" width="600">
 
-# Audio
-`nếu layout-id 7 không hoạt động, hãy thử id 11`
+# Wifi và bluetooth
 
-<img align="" src="https://user-images.githubusercontent.com/54585187/81153683-5bc56a00-8fad-11ea-8848-f942089825d6.png" width="600">
+Mình khuyến khích bạn nên sử dụng các loại card Dw1820a và dw1560 (nếu bạn không có tiền như mình bạn vẫn có thể sài heliport nhưng bị giới hạn tốc độ internet)
+
+- Bcm card: 
+
+	- https://github.com/acidanthera/AirportBrcmFixup
+	
+	- https://github.com/acidanthera/BrcmPatchRAM
+	
+- Intel card (HeliPort): https://github.com/1hbb/OpenIntelWireless-Factory/releases
+
+-Other kext: https://github.com/acidanthera/BT4LEContinuityFixup
 
 # ChimeBoot Sound
 
