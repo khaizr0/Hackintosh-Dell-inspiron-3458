@@ -141,7 +141,7 @@ I recommended you to using DW1820a, DW1560 (If you don't have money like me then
 	
 	- https://github.com/acidanthera/BrcmPatchRAM
 	
-- Intel card (HelioPort): https://github.com/1hbb/OpenIntelWireless-Factory/releases
+- Intel card (HeliPort): https://github.com/1hbb/OpenIntelWireless-Factory/releases
 
 -Other kext: https://github.com/acidanthera/BT4LEContinuityFixup
 
