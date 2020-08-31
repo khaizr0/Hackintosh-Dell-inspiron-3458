@@ -6,6 +6,7 @@
 
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.6.0-blue)](https://github.com/acidanthera/OpenCorePkg)
 ![Support-status](https://img.shields.io/badge/Support-YES-Green)
+![BigSur-support](https://img.shields.io/badge/BigSur-YES-Green)
 
 <img align="right" src="https://user-images.githubusercontent.com/54585187/88381416-9aaad500-cdd0-11ea-96c2-6f7bc16c99c3.png" alt="Critter" width="550">
 
@@ -50,11 +51,18 @@ Opencore Hackintosh trên Dell inspiron 3458
 - SD card reader (untest)
 - Continuty Features
 
+# Đối với BigSur thì tại [đây](https://github.com/KhaiZeR0/OpenCore-Dell-inspiron-3458/blob/master/BigSur-beta.md)
+
+![oke](https://user-images.githubusercontent.com/54585187/91718709-22e57c80-ebbe-11ea-9d2b-9820924de92f.png)
+
+
 ## Lưu ý trước khi tiếp tục đọc bài này
 
-Hãy dùng Xcode, ProperTree để sửa đổi file config của bạn
+Hãy dùng ProperTree để sửa đổi file config của bạn
 
 (Không được dùng OpenCore Configuration, Clover Configuration nếu không sẽ gây hỏng file config)
+
+
 
 ## Pre Condition
 
@@ -66,7 +74,7 @@ Virtualization    | Disabled
 USB Wake Support | Disabled
 SATA Operation | AHCI
 
-## 1. Thay đổi DVMT settings
+## 1. Thay đổi DVMT settings (Đã patch trên config)
 
 Update bios của máy bạn lên phiên bản mới nhất
 
@@ -162,7 +170,7 @@ Mình khuyến khích bạn nên sử dụng các loại card Dw1820a và dw1560
 - [Opencore](https://dortania.github.io/OpenCore-Desktop-Guide/ "OpenCore") Guide
 - Trang Web [Olarila](https://www.olarila.com "Olarila")
 - [Olarila](https://www.facebook.com/groups/122585311156411 "Olarila") Facebook group
-- Nếu bạn là người Việt Nam thì hãy vào [group](https://www.facebook.com/groups/224780132268974/?ref=share "group") này :B
+- Nếu bạn là người Việt Nam thì hãy vào [group](https://www.facebook.com/groups/hackintosh.vietnam "group") và [group](https://www.facebook.com/groups/224780132268974/?ref=share "group") này :B
 
 ## Credit
 - [Apple](https://www.apple.com "Apple") for the Operation System
