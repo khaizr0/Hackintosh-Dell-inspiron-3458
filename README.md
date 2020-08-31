@@ -14,7 +14,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/54585187/88381616-ef4e5000-cdd0-11ea-878e-6173ee8eb1ef.png" width="550">
 
-# OpenCore Dell inspiron 3458
+# Hackintosh Dell inspiron 3458
 
 *Languages:
 
@@ -50,9 +50,11 @@
 
 # For BigSur then [here](https://github.com/KhaiZeR0/OpenCore-Dell-inspiron-3458/blob/master/BigSur-beta.md)
 
+![oke](https://user-images.githubusercontent.com/54585187/91718709-22e57c80-ebbe-11ea-9d2b-9820924de92f.png)
+
 ## Before Continue Guide!!
 
-Please use Xcode, ProperTree for customize config file
+Please use ProperTree for customize config file
 
 (Don't use OpenCore Configuration, Clover Configuration or it will broke your config file)
 
@@ -66,7 +68,7 @@ Virtualization    | Disabled
 USB Wake Support | Disabled
 SATA Operation | AHCI
 
-## 1. Change DVMT settings
+## 1. Change DVMT settings (already patched with 32mb dvmt on config)
 
 Update your Bios to Lastest
 
@@ -166,7 +168,7 @@ I recommended you to using DW1820a, DW1560 (If you don't have money like me then
 - [Opencore](https://dortania.github.io/OpenCore-Desktop-Guide/ "OpenCore") Guide
 - [Olarila](https://www.olarila.com "Olarila") Website
 - [Olarila](https://www.facebook.com/groups/122585311156411 "Olarila") Facebook group
-- If you are VietNamese you can go to this [group](https://www.facebook.com/groups/224780132268974/?ref=share "group")
+- If you are VietNamese you can go to this [group](https://www.facebook.com/groups/224780132268974/?ref=share "group") and this [group](https://www.facebook.com/groups/hackintosh.vietnam "group")
 
 ## Credit
 - [Apple](https://www.apple.com "Apple") for the Operation System
