@@ -38,7 +38,6 @@
 ## Unknown issues
 - intelbluetooth.kext got panic after put to OC
 - Buggy intel Wifi - Bluetooth
-- Without SSD your system will fall to damage (Super SLOW)
 - Slow intel wifi connection
 - Some kext will caused Damage if dev not updating kext 
 
