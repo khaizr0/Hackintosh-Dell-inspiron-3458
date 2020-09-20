@@ -5,7 +5,7 @@
 -----
 
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.6.0-blue)](https://github.com/acidanthera/OpenCorePkg)
-![Support-status](https://img.shields.io/badge/Support-YES-Green)
+![Support-status](https://img.shields.io/badge/Support-NO-red)
 ![BigSur-support](https://img.shields.io/badge/BigSur-YES-Green)
 
 <img align="right" src="https://user-images.githubusercontent.com/54585187/88381416-9aaad500-cdd0-11ea-96c2-6f7bc16c99c3.png" alt="Critter" width="550">
