@@ -17,7 +17,8 @@
 - Audio ALC 255
 - Ethernet RTL8106E
 ## Working
-- Wifi (Black80211 and [Itlwm](https://github.com/zxystd/itlwm) Projects)
+- Wifi ([Itlwm](https://github.com/OpenIntelWireless/itlwm) Projects)
+- Continuty (Handoff and Universal Clipboard)
 - Native Power Management
 - Bluetooth
 - USB ports
@@ -33,8 +34,9 @@
 - Bluetooth
 - Icloud/Facetime/imessage
 ## Not Working
-- Continuty Features
+- Continuty (Airdrop)
 - Brightness Control
+- SD CARD (untest)
 ## Unknown issues
 - intelbluetooth.kext got panic after put to OC
 - Buggy intel Wifi - Bluetooth
@@ -75,15 +77,15 @@ Update your Bios to Lastest
   
   # Wifi
   
-  Download Project 1 (itlwm and Black80211) from [this](https://www.youtube.com/watch?v=kHfUjJ2RkyU)
+  Download AirportItlwm from [this](https://github.com/OpenIntelWireless/itlwm)
   
-  Put 2 kexts (Black80211 and itlwm) to L/E with Hackintool
+  Put it to L/E with Hackintool
   
   ![h](https://user-images.githubusercontent.com/54585187/91720558-87eea180-ebc1-11ea-8026-57c8fb5dc0d0.png)
   
   Restart the PC
   
-  After that go to System Preferences / Sercurity and enable 2 kexts
+  After that go to System Preferences / Sercurity and enable kext
   
   ![g](https://user-images.githubusercontent.com/54585187/91720730-cf752d80-ebc1-11ea-99e3-a6d99ab3d7d4.png)
   
