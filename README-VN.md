@@ -4,7 +4,7 @@
 
 -----
 
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.0-blue)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.3-blue)](https://github.com/acidanthera/OpenCorePkg)
 ![Support-status](https://img.shields.io/badge/Support-NO-red)
 ![BigSur-support](https://img.shields.io/badge/BigSur-YES-Green)
 
@@ -171,6 +171,8 @@ Mình khuyến khích bạn nên sử dụng các loại card Dw1820a và dw1560
 - Trang Web [Olarila](https://www.olarila.com "Olarila")
 - [Olarila](https://www.facebook.com/groups/122585311156411 "Olarila") Facebook group
 - Nếu bạn là người Việt Nam thì hãy vào [group](https://www.facebook.com/groups/hackintosh.vietnam "group") và [group](https://www.facebook.com/groups/224780132268974/?ref=share "group") này :B
+
+# VÀ LÀM ƠN 🙏 ĐỪNG LẤY EFI NÀY RA ĐỂ CÀI DỊCH VỤ. NẾU MÌNH PHÁT HIỆN RA THÌ GIẬN TÍM NGƯỜI ĐÓ 😡
 
 ## Credit
 - [Apple](https://www.apple.com "Apple") for the Operation System
