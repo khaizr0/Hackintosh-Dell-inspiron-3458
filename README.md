@@ -4,7 +4,7 @@
 
 -----
 
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.0-blue)](https://github.com/acidanthera/OpenCorePkg)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.3-blue)](https://github.com/acidanthera/OpenCorePkg)
 ![Support-status](https://img.shields.io/badge/Support-NO-red)
 ![BigSur-support](https://img.shields.io/badge/BigSur-YES-Green)
 
@@ -148,7 +148,7 @@ I recommended you to using DW1820a, DW1560 (If you don't have money like me then
 	
 - Intel card (HeliPort): https://github.com/1hbb/OpenIntelWireless-Factory/releases
 
--Other kext: https://github.com/acidanthera/BT4LEContinuityFixup
+-Other kext(Do not use it for intel card): https://github.com/acidanthera/BT4LEContinuityFixup
 
 # IMPORTANT:
 (After installed MacOS sucessful, please change your System info with ProperTree and Clover configuration generate)
@@ -170,6 +170,7 @@ I recommended you to using DW1820a, DW1560 (If you don't have money like me then
 - [Olarila](https://www.facebook.com/groups/122585311156411 "Olarila") Facebook group
 - If you are VietNamese you can go to this [group](https://www.facebook.com/groups/224780132268974/?ref=share "group") and this [group](https://www.facebook.com/groups/hackintosh.vietnam "group")
 
+# AND PLEASE 🙏 DO NOT USE THIS EFI FOR SEALING
 ## Credit
 - [Apple](https://www.apple.com "Apple") for the Operation System
 - [OpenCore](https://dortania.github.io/OpenCore-Desktop-Guide/misc/credit.html "OpenCore") for great Bootloader
