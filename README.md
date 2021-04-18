@@ -17,11 +17,6 @@
 # Hackintosh Dell inspiron 3458
 ## macOS supported: High Sierra, Mojave, Catalina, BigSur
 
-*Languages:
-
-- [Việt Nam](https://github.com/KhaiZeRoFX/OpenCore-Dell-inspiron-3458/blob/master/README-VN.md "VN")
-- English (Current)
-
 ## Download [here](https://github.com/KhaiZeRoFX/OpenCore-Dell-inspiron-3458/releases "vv")
 ## Laptop Specs
 - Intel Core i3 5005u (Broadwell)
@@ -90,7 +85,7 @@ Update your Bios to Lastest
   ## 2. Create OSX Installer
   (I will use Olarila Mojave)
   
-  *note: i do not recommended using Olarila to install because mine cause alot of issuse with it and i reccommended using REAL vanilla on Apple AppStore or  Dortania OpenCore guide*
+  *note: i do not recommended using Olarila to install because mine cause alot of issue with it and i reccommended using REAL vanilla on Apple AppStore or  Dortania OpenCore guide*
   
   1. Download MacOS Mojave From Olarila [here](https://drive.google.com/file/d/11XOoe-3Dcgqy97SJ3DGPSTx9Nz3LJIff/view "Here")
   
