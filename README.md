@@ -168,7 +168,7 @@ Check it for more detail: [Wireless For Dell Inspiron 3458](https://github.com/K
 - [Olarila](https://www.facebook.com/groups/122585311156411 "Olarila") Facebook group
 - If you are VietNamese you can go to this [group](https://www.facebook.com/groups/224780132268974/?ref=share "group") and this [group](https://www.facebook.com/groups/hackintosh.vietnam "group")
 
-# AND PLEASE 🙏 DO NOT USE THIS EFI FOR SEAL
+# AND PLEASE 🙏 DO NOT USING THIS EFI FOR COMMERCIAL PURPOSES
 ## Credit
 - [Apple](https://www.apple.com "Apple") for the Operation System
 - [OpenCore](https://dortania.github.io/OpenCore-Desktop-Guide/misc/credit.html "OpenCore") for great Bootloader
