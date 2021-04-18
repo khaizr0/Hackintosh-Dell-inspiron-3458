@@ -49,7 +49,7 @@
 ## Not Working
 - etc
 ## Known issuse
-- etc
+- Remapping Fn+B Fn+S to F11 F12
 
 # macOS BigSur confirmed:
 
@@ -140,10 +140,16 @@ Update your Bios to Lastest
 
 10. After Booted successfull, copy your EFI folder from your USB to Hard drive and ready to go :)
 
+# Remapping Fn+B Fn+S to F11 F12
+Im trying to remap the Brigness Keyboard to F11 F12 but still got alot of issuse about BRT6 DSDT
+
+You can use [Karabiner-Elements](https://karabiner-elements.pqrs.org) with this setiing below
+
+<img align="" src="https://user-images.githubusercontent.com/54585187/115134351-8e8b3580-a039-11eb-9e52-8fa5c865b74d.png" width="600">
+
 # Wifi and bluetooth
 
-Check it on 
-[Wireless For Dell Inspiron 3458](https://github.com/KhaiZeR0/Wireless-For-Dell-Inspiron-3458)
+Check it for more detail: [Wireless For Dell Inspiron 3458](https://github.com/KhaiZeR0/Wireless-For-Dell-Inspiron-3458)
 
 [OpenCore Wireless Buyers Guide](https://dortania.github.io/Wireless-Buyers-Guide/)
 
