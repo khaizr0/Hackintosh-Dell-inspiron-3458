@@ -49,7 +49,7 @@
 ## Not Working
 - etc
 ## Known issuse
-- Remapping Fn+B Fn+S to F11 F12
+- [Remapping Fn+B Fn+S to F11 F12](https://github.com/KhaiZeR0/Hackintosh-Dell-inspiron-3458/blob/master/README.md#remapping-fnb-fns-to-f11-f12)
 
 # macOS BigSur confirmed:
 
