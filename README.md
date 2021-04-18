@@ -4,8 +4,8 @@
 
 -----
 
-[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.3-blue)](https://github.com/acidanthera/OpenCorePkg)
-![Support-status](https://img.shields.io/badge/Support-NO-red)
+[![OpenCore](https://img.shields.io/badge/OpenCore-0.6.8-blue)](https://github.com/acidanthera/OpenCorePkg)
+![Support-status](https://img.shields.io/badge/Support-YES-Green)
 ![BigSur-support](https://img.shields.io/badge/BigSur-YES-Green)
 
 <img align="right" src="https://user-images.githubusercontent.com/54585187/88381416-9aaad500-cdd0-11ea-96c2-6f7bc16c99c3.png" alt="Critter" width="550">
@@ -15,6 +15,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/54585187/88381616-ef4e5000-cdd0-11ea-878e-6173ee8eb1ef.png" width="550">
 
 # Hackintosh Dell inspiron 3458
+## macOS supported: High Sierra, Mojave, Catalina, BigSur
 
 *Languages:
 
@@ -26,11 +27,11 @@
 - Intel Core i3 5005u (Broadwell)
 - GPU intel HD 5500
 - Ram 4GB
-- Intel AC3160
+- Intel AC3160 (replaced with DW1820a)
 - Audio ALC 255
 - Ethernet RTL8106E
 ## Working
-- Wifi ([HeliPort](https://github.com/zxystd/HeliPort) and [Itlwm](https://github.com/zxystd/itlwm) Projects)
+- Wifi 
 - Native Power Management
 - Bluetooth
 - USB ports
@@ -39,16 +40,18 @@
 - Internal Audio & Microphone
 - Headphone Jack
 - HDMI Port (HDMI Audio)
-- Graphics (Brightness Control)
+- Graphics (Brightness Control Fn+B Fn+S)
 - Sleep/Wake
 - Ethernet
 - Battery
 - Bluetooth
 - Icloud/Facetime/imessage
 ## Not Working
-- Continuty Features
+- etc
+## Known issuse
+- etc
 
-# For BigSur then [here](https://github.com/KhaiZeR0/OpenCore-Dell-inspiron-3458/blob/master/BigSur-beta.md)
+# macOS BigSur confirmed:
 
 ![oke](https://user-images.githubusercontent.com/54585187/91718709-22e57c80-ebbe-11ea-9d2b-9820924de92f.png)
 
@@ -87,6 +90,7 @@ Update your Bios to Lastest
   ## 2. Create OSX Installer
   (I will use Olarila Mojave)
   
+  *note: i do not recommended using Olarila to install because mine cause alot of issuse with it and i reccommended using REAL vanilla on Apple AppStore or  Dortania OpenCore guide*
   
   1. Download MacOS Mojave From Olarila [here](https://drive.google.com/file/d/11XOoe-3Dcgqy97SJ3DGPSTx9Nz3LJIff/view "Here")
   
@@ -138,17 +142,10 @@ Update your Bios to Lastest
 
 # Wifi and bluetooth
 
-I recommended you to using DW1820a, DW1560 (If you don't have money like me then you can use HeliPort with limit internet speed)
+Check it on 
+[Wireless For Dell Inspiron 3458](https://github.com/KhaiZeR0/Wireless-For-Dell-Inspiron-3458)
 
-- Bcm card: 
-
-	- https://github.com/acidanthera/AirportBrcmFixup
-	
-	- https://github.com/acidanthera/BrcmPatchRAM
-	
-- Intel card (HeliPort): https://github.com/1hbb/OpenIntelWireless-Factory/releases
-
--Other kext(Do not use it for intel card): https://github.com/acidanthera/BT4LEContinuityFixup
+[OpenCore Wireless Buyers Guide](https://dortania.github.io/Wireless-Buyers-Guide/)
 
 # IMPORTANT:
 (After installed MacOS sucessful, please change your System info with ProperTree and Clover configuration generate)
@@ -170,7 +167,7 @@ I recommended you to using DW1820a, DW1560 (If you don't have money like me then
 - [Olarila](https://www.facebook.com/groups/122585311156411 "Olarila") Facebook group
 - If you are VietNamese you can go to this [group](https://www.facebook.com/groups/224780132268974/?ref=share "group") and this [group](https://www.facebook.com/groups/hackintosh.vietnam "group")
 
-# AND PLEASE 🙏 DO NOT USE THIS EFI FOR SEALING
+# AND PLEASE 🙏 DO NOT USE THIS EFI FOR SEAL
 ## Credit
 - [Apple](https://www.apple.com "Apple") for the Operation System
 - [OpenCore](https://dortania.github.io/OpenCore-Desktop-Guide/misc/credit.html "OpenCore") for great Bootloader
