@@ -8,11 +8,11 @@
 ![Support-status](https://img.shields.io/badge/Support-YES-Green)
 ![BigSur-support](https://img.shields.io/badge/BigSur-YES-Green)
 
-<img align="right" src="https://user-images.githubusercontent.com/54585187/88381416-9aaad500-cdd0-11ea-96c2-6f7bc16c99c3.png" alt="Critter" width="550">
+<img align="right" src="https://user-images.githubusercontent.com/54585187/115138021-ca32f900-a053-11eb-915e-15046587e727.png" alt="Critter" width="550">
 
-<img align="right" src="https://user-images.githubusercontent.com/54585187/88381481-b8783a00-cdd0-11ea-8716-195cd177e314.png" width="550">
+<img align="right" src="https://user-images.githubusercontent.com/54585187/115138031-dcad3280-a053-11eb-872d-ba518692939a.png" width="550">
 
-<img align="right" src="https://user-images.githubusercontent.com/54585187/88381616-ef4e5000-cdd0-11ea-878e-6173ee8eb1ef.png" width="550">
+<img align="right" src="https://user-images.githubusercontent.com/54585187/115138055-fea6b500-a053-11eb-9563-4a1b34c20839.png" width="550">
 
 # Hackintosh Dell inspiron 3458
 ## macOS supported: High Sierra, Mojave, Catalina, BigSur
