@@ -3,7 +3,8 @@
 </p>
 
 -----
-
+# NOTE: i will not update OpenCore for this machine anymore
+-----
 [![OpenCore](https://img.shields.io/badge/OpenCore-0.6.8-blue)](https://github.com/acidanthera/OpenCorePkg)
 ![Support-status](https://img.shields.io/badge/Support-YES-Green)
 ![BigSur-support](https://img.shields.io/badge/BigSur-YES-Green)
@@ -49,6 +50,8 @@
 # macOS BigSur confirmed:
 
 ![oke](https://user-images.githubusercontent.com/54585187/91718709-22e57c80-ebbe-11ea-9d2b-9820924de92f.png)
+
+### For Big Sur 11.4: Set xhciportlimit to FALSE
 
 ## Before Continue Guide!!
 
@@ -138,7 +141,7 @@ Update your Bios to Lastest
 # Remapping Fn+B Fn+S to F11 F12
 Im trying to remap the Brigness Keyboard to F11 F12 but still got alot of issuse about BRT6 DSDT
 
-You can use [Karabiner-Elements](https://karabiner-elements.pqrs.org) with this setiing below
+You can use [Karabiner-Elements](https://karabiner-elements.pqrs.org) with this setting below
 
 <img align="" src="https://user-images.githubusercontent.com/54585187/115134351-8e8b3580-a039-11eb-9e52-8fa5c865b74d.png" width="600">
 
