@@ -65,7 +65,7 @@ Please use ProperTree for customize config file
 Bios Config | Setting 
 :---:| :---:
 Intel SpeedStep | Enabled
-Virtualization    | Disabled
+Virtualization    | Enabled
 USB Wake Support | Disabled
 SATA Operation | AHCI
 
